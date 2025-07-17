@@ -24,8 +24,7 @@
 
 ## Screenshots
 
-![RocketSim_Recording_iPhone_16_Pro_6 3_2025-07-17_03 17 26](https://github.com/user-attachments/assets/db8cf57f-9993-41ed-beea-e75ed82b9386)
-
+![RocketSim_Recording_iPhone_16_Pro_6 3_2025-07-17_03 19 51](https://github.com/user-attachments/assets/7d5e2c4d-350c-4298-a87c-73b2ef657df6)
 
 ## Technologies Used
 
